@@ -7,6 +7,6 @@ I don't know what to write*/
         
     }
     
-    main();
+console.log(main());
     
     module.exports = main;
